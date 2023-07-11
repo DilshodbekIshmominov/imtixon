@@ -11,6 +11,7 @@ margin-left: 400px;
     width: 300px;
     background: #F1F1F1;
     display: flex;
+    margin: 10px;
 
 }
 .servies{
@@ -44,7 +45,7 @@ img{
 }
 .aniq{
     position: absolute;
-    top: 3300px;
+    top: 2200px;
     left: 900px;
 }
 .src{
@@ -57,6 +58,7 @@ img{
     margin-left: 200px;
     gap: 600px;
     background: #0152A8;
+    font-size: 2px;
 
 }
 .text{
@@ -79,6 +81,4 @@ margin-left: -900px;
     .pol{
         display: flex;
     }
-    .aykn{
-        width: 300px;
-    }
+    
