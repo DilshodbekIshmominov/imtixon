@@ -1,0 +1,84 @@
+.img2{
+margin-left: -400px;
+height: 300px;
+margin-top: -450px;
+}
+.our{
+    margin-top: -280px;
+margin-left: 400px;
+}
+.qaz{
+    width: 300px;
+    background: #F1F1F1;
+    display: flex;
+
+}
+.servies{
+    margin-top: -2000px;
+}
+img{
+    background-image: url(Photo\ \(2\).png);
+}
+.icon{
+    width: -100px;
+    margin-left: -50px;
+}
+.img3{
+    margin-left: -300px;
+    height: 900px;
+}
+.dil{
+    margin-left: 200px;
+    background: #0152A8;
+
+}
+.section{
+    margin-top: 400px;
+    background: #0152A8;
+}
+.photo{
+    width: 270px;
+    height: 270px;
+    margin-left: 30px;
+    margin-top: -23px;
+}
+.aniq{
+    position: absolute;
+    top: 3300px;
+    left: 900px;
+}
+.src{
+    margin-top: -10px;
+    margin-left: -18px;
+    width: 265px;
+
+}
+.but{
+    margin-left: 200px;
+    gap: 600px;
+    background: #0152A8;
+
+}
+.text{
+margin-left: -900px;
+}
+.text1{
+    margin-left: -900px;
+    }
+    .input{
+        padding: 10px 15px;
+    }
+    .btn{
+        border-radius: 0%;
+        margin-left: -140px;
+        margin-top: 20px;
+    }
+    .foot{
+        background-color: #E5F2EF;
+    }
+    .pol{
+        display: flex;
+    }
+    .aykn{
+        width: 300px;
+    }
